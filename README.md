@@ -1,2 +1,2 @@
-# gamebox
-A gaming website prototype
+# Gamebox
+A gaming website prototype - currently Desktop only
